@@ -32,7 +32,7 @@ A dense layer is used as output layer with units = length of labels which is dim
 
 ### Output 1
 
-https://github.com/CO17309/Speech-Recognition-Using-Python-/blob/master/Output%201.png
+https://github.com/CO17308/CO17308-Speech-Recognition-Using-Python/blob/master/Output%201.png
 
 In this project, we have used lots of voice commands and, this is the output, which displays the number of recordings of each command.
 
