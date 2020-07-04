@@ -63,6 +63,5 @@ At start user speaks and at end command user stops ,and then the model predicts 
 
 ## Code
 
-https://github.com/CO17309/Speech-Recognition-Using-Python-/blob/master/CO17308%20CO17309%20Project%20Speech%20Recognition.py
-
+https://github.com/CO17308/CO17308-Speech-Recognition-Using-Python/blob/master/CO17308%20CO17309%20Project%20Speech%20Recognition.py
 In this program we have trained speech recognition model which can few basic commands from speech to text in real time. It can recognize commands such as "yes", "no", "up", "down", "left", "right", "on", "off", "stop", "go", etc. This program has been executed in two stages. The first stage include training and testing of model based on deep learning using keras library consist of nine layers of neural network including input layer and output layer. The second stage mainly includes taking one second audio input from user and predicting its value. 
