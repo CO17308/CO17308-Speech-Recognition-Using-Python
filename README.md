@@ -31,33 +31,32 @@ A dense layer is used as output layer with units = length of labels which is dim
 ## Output
 
 ### Output 1
-
 https://github.com/CO17308/CO17308-Speech-Recognition-Using-Python/blob/master/Output%201.png
 
 In this project, we have used lots of voice commands and, this is the output, which displays the number of recordings of each command.
 
 ### Output 2
 
-https://github.com/CO17309/Speech-Recognition-Using-Python-/blob/master/Output%202.png
+https://github.com/CO17308/CO17308-Speech-Recognition-Using-Python/blob/master/Output%202.png
 
 Here, this is the output of the code where we have checked the duration of the all audio commands. Through this histogram it is clear that maximum voice commands are of one second.
 
 ### Output 3
 
-https://github.com/CO17309/Speech-Recognition-Using-Python-/blob/master/Output%203.png
+https://github.com/CO17308/CO17308-Speech-Recognition-Using-Python/blob/master/Output%203.png
 
 Data Exploration and Visualization helps us to understand the data as well as the preprocessing steps in a better way. This is the output of the visualization of Audio signals in time domain series.
 
 
 ### Output 4
 
-https://github.com/CO17309/Speech-Recognition-Using-Python-/blob/master/Output%205.png
+https://github.com/CO17308/CO17308-Speech-Recognition-Using-Python/blob/master/Output%204.png
 
 Next, we have the output of the code where we have trained our model and tested it. Model predict the voice\audio command with the accuracy of 0.8765. In this graph ,Blue line shows the training part and orange line shows the testing. 
 
 ### Output 5
 
-https://github.com/CO17309/Speech-Recognition-Using-Python-/blob/master/Output%205.png
+https://github.com/CO17308/CO17308-Speech-Recognition-Using-Python/blob/master/Output%205.png
 
 This is the final output of our code ,where it asks from the user to speak for one second.
 At start user speaks and at end command user stops ,and then the model predicts the voice and convert that audio into text.
